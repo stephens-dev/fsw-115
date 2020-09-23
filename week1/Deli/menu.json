@@ -1,0 +1,61 @@
+{
+    "appetizers": [
+        {
+            "Item": "Cheese Sticks",
+            "Ingredients": ["Bread", "Cheese"],
+            "Description": "Cheesey Goodness"
+        },
+        {
+            "Item": "Red Wings",
+            "Ingredients": ["Chicken wing", "Hot Sauce"],
+            "Description": "Spicy Chicken Wings"
+        }
+    ],
+    "cold sandwiches":  [
+        {
+            "Item": "Ham Sandwhich",
+            "Ingredients": ["White bread", "Ham", "Mustard"],
+            "Description": "Plain Ham Sandwhich"
+        },
+        {
+            "Item": "Balogna Sandwhich",
+            "Ingredients": ["White bread", "Balogna","Mustard","Mayo"],
+            "Description": "Plain Balogna Sandwhich"
+        }
+    ],
+    "hot sandwhich": [
+        {
+            "Item": "Meatball Sub",
+            "Ingredients": ["White Sub", "Meatballs", "Tomato Sauce"],
+            "Description": "Meatball Marina Sub"
+        },
+        {
+            "Item": "Pulled Pork Sandwhich",
+            "Ingredients": ["White Bread", "Pulled Pork"]
+        }
+    ],
+    "dessert": [
+        {
+            "Item": "Cheesecake",
+            "Ingredients": ["Pie Crust","Cheese Cake Filling"],
+            "Description": "Yummy Cheesecake"
+        },
+        {
+            "Item": "Chocolate Pie",
+            "Ingredients": ["Pie Crust", "Chocolate Filling"],
+            "Description": "Yummy Chocolate Pie"
+        }
+    ],
+    "drinks": [
+        {
+            "Item": "Chocolate Milk",
+            "Ingredients": ["Milk", "Chocolate Syrup"],
+            "Description": "Delicsious Chocoloate Milk"
+        },
+        {
+            "Item": "Sweet Tea",
+            "Ingredients": ["Water","Tea"],
+            "Description": "Sweet Sweet Iced Tea"
+        }
+    ]
+}
