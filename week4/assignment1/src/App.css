@@ -21,11 +21,11 @@ ul {
   font-size: 18px;
   transition: 0.2s;
   
-  /* make the list items unselectable */
-  /* -webkit-user-select: none;
+   /* make the list items unselectable  */
+   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
-  user-select: none; */
+  user-select: none; 
 }
 .box {
   display: flex;
@@ -43,11 +43,11 @@ align-content: center;
 .el3 {
   color: pink;
 }
- /* ul.checked {
+ li:checked {
   background: #888;
   color: #fff;
   text-decoration: line-through;
-} */
+}
 ul:nth-child(even) {
   background-color: #888;
 }
