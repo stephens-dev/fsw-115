@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+.beth {
+  background-color: #8a8582;
+}
+.morty {
+  background-color: #828a85;
+}
+.rick{
+ background-color: #85828a;
+}
