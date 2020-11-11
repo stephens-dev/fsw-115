@@ -21,7 +21,7 @@ const update = (e)  =>{
 }
 function Maps(props) {
     return(
-        <ul className= "box">
+        <ul className= "box" id="box">
             <div>
                 <h6 className="check1">Completed:
             <input className="check" id={props.id} onChange={update} type="checkbox" checked={props.checked}/>
@@ -31,7 +31,8 @@ function Maps(props) {
 
             <li className="el1">Title: {props.title}</li>
             <li className="el2">Description: {props.description}</li>
-            <li className="el3">Price: {props.price}</li>
+    <li> Episode: {props.episode}</li>
+            {/* <li className="el3">Price: {props.price}</li> */}
         </ul>
     )
 }
